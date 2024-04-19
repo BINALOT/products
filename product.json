@@ -3,30 +3,84 @@
         "id": 1,
         "name": "Bagnet",
         "price": 50,
-        "image": "porkfried.jpg"
+        "image": "https://github.com/BINALOT/products/blob/main/porkfried.jpg"
     },
     {
-        "id": 1,
-        "name": "Bagnet",
-        "price": 50,
-        "image": "porkfried.jpg"
+        "id": 2,
+        "name": "Longganisa",
+        "price": 130,
+        "image": "https://github.com/BINALOT/products/blob/main/longganisa.jpg"
     },
     {
-        "id": 1,
-        "name": "Bagnet",
-        "price": 50,
-        "image": "porkfried.jpg"
+        "id": 3,
+        "name": "Skinless",
+        "price": 130,
+        "image": "https://github.com/BINALOT/products/blob/main/skinless.jpg"
     },
     {
-        "id": 1,
-        "name": "Bagnet",
-        "price": 50,
-        "image": "porkfried.jpg"
+        "id": 4,
+        "name": "Tocino",
+        "price": 130,
+        "image": "https://github.com/BINALOT/products/blob/main/tocino.jpg"
     },
     {
-        "id": 1,
-        "name": "Bagnet",
-        "price": 50,
-        "image": "porkfried.jpg"
+        "id": 5,
+        "name": "Adobo Chicken",
+        "price": 130,
+        "image": "https://github.com/BINALOT/products/blob/main/adobo.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Adobo Pusit",
+        "price": 130,
+        "image": "https://github.com/BINALOT/products/blob/main/adobopusit.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Bicol Express",
+        "price": 130,
+        "image": "https://github.com/BINALOT/products/blob/main/bicolexpress.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Porkchop",
+        "price": 130,
+        "image": "https://github.com/BINALOT/products/blob/main/porkchop.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Liempo",
+        "price": 130,
+        "image": "https://github.com/BINALOT/products/blob/main/liempo.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Sisig",
+        "price": 130,
+        "image": "https://github.com/BINALOT/products/blob/main/sisig.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Tilapia",
+        "price": 150,
+        "image": "https://github.com/BINALOT/products/blob/main/tilapia.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Daing na Bangus",
+        "price": 150,
+        "image": "https://github.com/BINALOT/products/blob/main/daing%20na%20bangus.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Dilis",
+        "price": 130,
+        "image": "https://github.com/BINALOT/products/blob/main/dilis.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Hungarian",
+        "price": 130,
+        "image": "https://github.com/BINALOT/products/blob/main/hungarian.jpg"
     }
 ]
