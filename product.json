@@ -9,7 +9,7 @@
         "id": 2,
         "name": "Longganisa",
         "price": 130,
-        "image": "longganisa.jpg"
+        "image": "https://github.com/BINALOT/products/blob/main/longganisa.jpg"
     },
     {
         "id": 3,
