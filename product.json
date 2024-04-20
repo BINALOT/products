@@ -77,182 +77,176 @@
         "price": 130,
         "image": "dilis.jpg"
     },
-    {
-        "id": 14,
-        "name": "Dilis",
-        "price": 130,
-        "image": "dilis.jpg"
-    },
    {
-        "id": 15,
+        "id": 14,
         "name": "Hungarian",
         "price": 130,
         "image": "hungarian.jpg"
     },
     {
-        "id": 16,
+        "id": 15,
         "name": "Mangga with Bagoong",
         "price": 90,
         "image": "manga.jpg"
     },
     {
-        "id": 17,
+        "id": 16,
         "name": "Ensalada",
         "price": 100,
-        "image": "ensalada.jpg"
-    },
-    {
-        "id": 18,
-        "name": "Laing",
-        "price": 160,
         "image": "ensalada.JPG"
     },
     {
-        "id": 19,
+        "id": 17,
+        "name": "Laing",
+        "price": 160,
+        "image": "laing.jpg"
+    },
+    {
+        "id": 18,
         "name": "Chicharon Bulaklak",
         "price": 180,
         "image": "bulaklak.jpg"
     },
     {
-        "id": 20,
+        "id": 19,
         "name": "Butcheron & Litid",
         "price": 150,
         "image": "butcheron.jpg"
     },
     {
-        "id": 21,
+        "id": 20,
         "name": "Ginataang Kalabasa",
         "price": 100,
         "image": "ginatang.jpg"
     },
     {
-        "id": 22,
+        "id": 21,
         "name": "Ginisang Sayote",
         "price": 100,
         "image": "sayote.jpg"
     },
     {
-        "id": 23,
+        "id": 22,
         "name": "Red Velvet Crinkles",
         "price": 120,
         "image": "redvelvet.jpg"
     },
     {
-        "id": 24,
+        "id": 23,
         "name": "Leche Flan",
         "price": 130,
         "image": "lecheflan.jpg"
     },
     {
-        "id": 25,
+        "id": 24,
         "name": "Oreo Float",
         "price": 130,
         "image": "oreo.jpg"
     },
     {
-        "id": 26,
+        "id": 25,
         "name": "Mango Float",
         "price": 150,
         "image": "mangofloat.jpg"
     },
     {
-        "id": 27,
+        "id": 26,
         "name": "Dumaguete Butter",
         "price": 360,
         "image": "dumaguete.jpg"
     },
     {
-        "id": 28,
+        "id": 27,
         "name": "Dumaguete Sansrival",
         "price": 450,
         "image": "sansrival.jpg"
     },
     {
-        "id": 29,
+        "id": 28,
         "name": "Grandas Silvanas",
         "price": 310,
         "image": "silvanas.jpg"
     },
     {
-        "id": 30,
+        "id": 29,
         "name": "Grandas Sansrival",
         "price": 360,
         "image": "grandassansrival.jpg"
     },
     {
-        "id": 31,
+        "id": 30,
         "name": "First Baker Silvanas",
         "price": 300,
         "image": "firstbaker.jpg"
     },
     {
-        "id": 32,
+        "id": 31,
         "name": "Dynamite 6pcs.",
         "price": 100,
         "image": "dynamite.jpg"
     },
     {
-        "id": 33,
+        "id": 32,
         "name": "Cheesestick 15pcs.",
         "price": 100,
         "image": "cheesestick.jpg"
     },
     {
-        "id": 34,
+        "id": 33,
         "name": "Nachos Overload",
         "price": 100,
         "image": "nachos.jpg"
     },
     {
-        "id": 35,
+        "id": 34,
         "name": "Dumplings 10pcs.",
         "price": 100,
         "image": "dumplings.jpg"
     },
     {
-        "id": 36,
+        "id": 35,
         "name": "Lumpiang Isda 9pcs.",
         "price": 100,
         "image": "lumpiangisda.jpg"
     },
     {
-        "id": 37,
+        "id": 36,
         "name": "French Fries",
         "price": 100,
         "image": "fries.jpg"
     },
     {
-        "id": 38,
+        "id": 37,
         "name": "Nuggets 10pcs.",
         "price": 100,
         "image": "nuggets.jpeg"
     },
     {
-        "id": 39,
+        "id": 38,
         "name": "Sweet Corn",
         "price": 100,
         "image": "sweetcorn.jpg"
     },
     {
-        "id": 40,
+        "id": 39,
         "name": "Dinakdakan",
         "price": 150,
         "image": "dinakdakan.jpg"
     },
     {
-        "id": 41,
+        "id": 40,
         "name": "Pork Sisig",
         "price": 150,
         "image": "porksisig.jpg"
     },
     {
-        "id": 42,
+        "id": 41,
         "name": "Chicharon Bulaklak",
         "price": 180,
         "image": "bulaklak.jpg"
     },
     {
-        "id": 43,
+        "id": 42,
         "name": "Baga",
         "price": 120,
         "image": "baga.jpg"
