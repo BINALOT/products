@@ -77,7 +77,26 @@
         "price": 130,
         "image": "dilis.jpg"
     },
-   
+    {
+        "id": 14,
+        "name": "Dilis",
+        "price": 130,
+        "image": "dilis.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Dilis",
+        "price": 130,
+        "image": "dilis.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Dilis",
+        "price": 130,
+        "image": "dilis.jpg"
+    },
+   {
+        "id": 16,
         "name": "Hungarian",
         "price": 130,
         "image": "https://github.com/BINALOT/products/blob/main/hungarian.jpg"
