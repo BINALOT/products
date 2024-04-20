@@ -3,13 +3,13 @@
         "id": 1,
         "name": "Bagnet",
         "price": 50,
-        "image": "https://github.com/BINALOT/products/blob/main/porkfried.jpg"
+        "image": "porkfried.jpg"
     },
     {
         "id": 2,
         "name": "Longganisa",
         "price": 130,
-        "image": "https://github.com/BINALOT/products/blob/main/longganisa.jpg"
+        "image": "longganisa.jpg"
     },
     {
         "id": 3,
