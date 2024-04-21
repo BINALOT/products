@@ -87,13 +87,13 @@
         "id": 15,
         "name": "Mangga with Bagoong",
         "price": 90,
-        "image": "manga.jpg"
+        "image": "mangga.jpg"
     },
     {
         "id": 16,
         "name": "Ensalada",
         "price": 100,
-        "image": "ensalada.JPG"
+        "image": "ensalada.jpg"
     },
     {
         "id": 17,
@@ -117,7 +117,7 @@
         "id": 20,
         "name": "Ginataang Kalabasa",
         "price": 100,
-        "image": "ginatang.jpg"
+        "image": "ginataang.jpg"
     },
     {
         "id": 21,
